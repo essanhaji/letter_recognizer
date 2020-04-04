@@ -55,7 +55,7 @@ Congratulation.
 
 ##### For Notebook Version
 - Open the notebook ```letter_recognizer_notebook/main.ipynb``` and edit it as you want.<br/>
-- [main.ipynb](main.ipynb)
+- [main.ipynb](letter_recognizer_notebook/main.ipynb)
 
 
 

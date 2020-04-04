@@ -17,8 +17,8 @@ clear()
 
 images, labels = extract_training_samples('letters')
 
-# print(images.shape)
-# print(labels.shape)
+print(images.shape)
+print(labels.shape)
 
 # to minimize the data set to accelerate test
 # images = images[0:1000]
@@ -55,6 +55,6 @@ letters_array.sort()
 
 # letters_array = letters_array[::1]
 
-my_comparator.disply_list_of_images(letters_array[0:20])
+my_comparator.display_list_of_images(letters_array[0:20])
 
 print("Execution time : {} S".format((time.time() - start)))
