@@ -15,7 +15,6 @@ Cohen, G., Afshar, S., Tapson, J., & van Schaik, A. (2017). EMNIST: an extension
 
 
 
-
 ### The EMNIST Python Package
 This package is a convenience wrapper around the EMNIST Dataset. The package provides functionality to automatically download and cache the dataset, and to load it as numpy arrays, minimizing the boilerplate necessary to make use of the dataset. (NOTE: The author of the Python package is not affiliated in any way with the authors of the dataset and the associated paper.)
 
