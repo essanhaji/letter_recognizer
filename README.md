@@ -1,4 +1,4 @@
-# MNIST Dataset : Digit Recognizer
+# Digit Recognizer Using MNIST Dataset
 
 
 
