@@ -32,7 +32,7 @@ To install the EMNIST Python package along with its dependencies, run the follow
 pip install emnist
 ```
 
-The dataset itself is automatically downloaded and cached when needed. To preemptively download the data and avoid a delay later during the execution of your program, execute the following command after installation :<br>
+The dataset it self is automatically downloaded and cached when needed. To preemptively download the data and avoid a delay later during the execution of your program, execute the following command after installation :<br>
 ```
 python -c "import emnist; emnist.ensure_cached_data()"
 ```
