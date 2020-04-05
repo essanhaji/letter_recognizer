@@ -49,11 +49,12 @@ Alternately, if you have already downloaded the original IDX-formatted dataset f
 
 ### Test
 Congratulation.
-##### For Script Version
-- Open the ```letter_recognizer_scripte/main.py``` and edit it as you want.<br>
+
+#### For Script Version
+- Open the ```letter_recognizer_scripte/main.py``` and edit it as you want.<br><br>
 ![demo](letter_recognizer_scripte/demo.gif)
 
-##### For Notebook Version
+#### For Notebook Version
 - Open the notebook ```letter_recognizer_notebook/main.ipynb``` and edit it as you want.<br/>
 - [main.ipynb](letter_recognizer_notebook/main.ipynb)
 
